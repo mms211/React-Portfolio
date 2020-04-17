@@ -2,8 +2,8 @@ import React from 'react';
 import './footer.css';
 
 const Footer = () => (
-    <nav class="navbar fixed-bottom footer">
-        <p class="copyright"> Copyright © </p>
+    <nav className="navbar fixed-bottom footer">
+        <p className="copyright"> Copyright © </p>
     </nav>
 );
 
