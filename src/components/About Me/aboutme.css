@@ -2,10 +2,6 @@
     background-image: url(../../assets/morocco.png);
 }
 
-.container {
-    height: 100%;
-}
-
 .box {
     min-height: 400px;
     border: 2px solid #dddddd;
