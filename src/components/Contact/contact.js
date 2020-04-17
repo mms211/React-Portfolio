@@ -8,7 +8,7 @@ class Contact extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
-                            <div className="card box">
+                            <div className="card box1">
                                 <div className="card-body">
                                     <div className="boxheader">
                                         <h2> Contact Me</h2>
