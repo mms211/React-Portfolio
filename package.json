@@ -10,7 +10,11 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "engines" : { 
+    "node" : ">=10.0.0 <13.0.0" 
+  },
   "scripts": {
+    "develop": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
