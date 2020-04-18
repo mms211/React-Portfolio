@@ -1,4 +1,4 @@
-## Responsive-Portfolio
+## React-Portfolio
 
 # Description
 
@@ -10,7 +10,7 @@ This React Portfolio was created so that I could showcase the projects I complet
 
 # Links
 
-Deployed App:  https://intense-bastion-59343.herokuapp.com/
+Deployed App:  https://morgan-sommer-portfolio.herokuapp.com/
 
 Github Repo:  https://github.com/mms211/React-Portfolio
 

@@ -19,7 +19,7 @@ class AboutMe extends Component {
                                     <p className="aboutme">
                                         My name is Morgan and I am a west coast theatre nerd living in the City of Brotherly Love! By day I am an Administrative Coordinator for a large performing arts center,
                                         and by night I am a Full Stack Web Developer. Proficient in HTML5, CSS, Javascript,
-                                        JQuery, front end CSS frameworks (Bootstrap, Foundation), Databases (MySql, MongoDB, IndexedDB, Sequelize), Node, NPM, and Express.
+                                        JQuery, front end CSS frameworks (Bootstrap, Foundation), Databases (MySql, MongoDB, IndexedDB, Sequelize), Node, NPM, Express, and React.
                                     </p>
                                     <a className="about-me-link" href={ resume }>Resume</a>
                                     <span className="about-me-link"> | </span>
