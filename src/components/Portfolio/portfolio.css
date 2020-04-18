@@ -1,0 +1,31 @@
+.body {
+    background-image: url(../../assets/morocco.png);
+}
+
+.box2 {
+    min-height: 400px;
+    border: 2px solid #dddddd;
+    padding: 30px;
+    background-color: #ffffff;
+    color: #777777;
+    margin: auto;
+    margin-top: 50px; 
+    margin-bottom: 100px;
+}
+
+div.card-body {
+    padding: 0;
+}
+
+.boxheader {
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #4aaaa5;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
