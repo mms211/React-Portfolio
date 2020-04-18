@@ -13,22 +13,22 @@ class Contact extends Component {
                                     <div className="boxheader">
                                         <h2> Contact Me</h2>
                                     </div>
-                                    <form>
+                                    <form action="" method="">
                                         <div className="form-group">
                                             <label htmlFor="exampleFormControlInput1">Name</label>
-                                            <input type="email" className="form-control" id="exampleFormControlInput1"
+                                            <input type="text" name="name" className="form-control" id="exampleFormControlInput1"
                                                 placeholder="John Smith" />
                                         </div>
                                         <div className="form-group">
                                             <label htmlFor="exampleFormControlInput1">Email</label>
-                                            <input type="email" className="form-control" id="exampleFormControlInput1"
+                                            <input type="email" name="mail" className="form-control" id="exampleFormControlInput1"
                                                 placeholder="example@gmail.com" />
                                         </div>
                                         <div className="form-group">
                                             <label htmlFor="exampleFormControlTextarea1">Message</label>
-                                            <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                            <textarea name="message" className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                         </div>
-                                        <button type="button" className="btn btn-info">Submit</button>
+                                        <button type="submit" name="submit" className="btn btn-info">Submit</button>
                                     </form>
                                 </div>
                             </div>
